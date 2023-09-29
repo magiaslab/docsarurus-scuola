@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Guide Istituto Marconi',
   tagline: 'Guide per alunne e alunni, famiglie e personale scolastico',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/a-emblema.jpg',
 
   // Set the production url of your site here
   url: 'https://guide.istituto-marconi.edu.it',
@@ -41,13 +41,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,7 +65,7 @@ const config = {
         title: 'Guide Istituto "G Marconi"',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/a-emblema.jpg',
         },
         items: [
           {
