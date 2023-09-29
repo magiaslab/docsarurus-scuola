@@ -88,16 +88,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Guide',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Guide per tutti',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Link Utili',
             items: [
               {
                 label: 'Stack Overflow',
@@ -114,7 +114,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Altri link',
             items: [
               {
                 label: 'Blog',
