@@ -8,4 +8,6 @@ Per racchiudere in un solo luogo ed aiutare le persone a sfruttare al meglio gli
 
 ## AGID e il design dei servizi
 
-Il processo di digitalizzazione e design dei servizi digitali della PA è nato attraverso un processo creato e seguito da AGID, Agenzia per l?italia Digitale [sito web AGID](https://www.agid.gov.it/)
+![Logo Agid](<../static/img/logo agid.jpg>)
+
+Il processo di digitalizzazione e design dei servizi digitali della PA è nato attraverso un processo creato e seguito da AGID, Agenzia per l'italia Digitale [sito web AGID](https://www.agid.gov.it/)
