@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Team Digitale Istituto "G. Marconi" Campiglia Marittima (Li)`,
       },
       prism: {
         theme: lightCodeTheme,
