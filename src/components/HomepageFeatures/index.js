@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Docenti e personale scolastico',
-    Svg: require('@site/static/img/ponbanner.png').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
