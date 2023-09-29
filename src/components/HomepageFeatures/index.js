@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Guide per tutti',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/static/img/pon-banner-copia.png').default,
     description: (
       <>
         Un luogo dove trovare le guide per le componenti digitali della scuola
