@@ -3,7 +3,7 @@ sidebar_label: 'Introduzione'
 sidebar_position: 1
 ---
 
-# Il sito Inetrnet della scuola
+# Il sito Internet della scuola
 
 This is my **first Docusaurus document**!
 
