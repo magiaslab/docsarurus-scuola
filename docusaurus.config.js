@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Guide Istituto Marconi',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Guide per alunne e alunni, famiglie e personale scolastico',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://guide.istituto-marconi.edu.it',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Guide Istituto "G Marconi"',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
