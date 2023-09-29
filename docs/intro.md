@@ -6,8 +6,6 @@ sidebar_position: 1
 
 Per racchiudere in un solo luogo ed aiutare le persone a sfruttare al meglio gli strumenti ed i servizi che la scuola sta ammodernando nel processo di digitalizzazione.
 
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
+## AGID e il design dei servizi
+
+Il processo di digitalizzazione e design dei servizi digitali della PA è nato attraverso un processo creato e seguito da AGID, Agenzia per l?italia Digitale [sito web AGID](https://www.agid.gov.it/)
