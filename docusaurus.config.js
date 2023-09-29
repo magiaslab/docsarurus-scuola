@@ -48,6 +48,10 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          blogTitle: 'Marconi Blog',
+          blogDescription: 'Blog',
+          blogSidebarCount: 5,
+          blogSidebarTitle: 'Tutti i posts',
           
         },
         theme: {
