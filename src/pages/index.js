@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <Layout
       title={`Benvenuti su ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Istituto Marconi Venturina Guide Operative">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
