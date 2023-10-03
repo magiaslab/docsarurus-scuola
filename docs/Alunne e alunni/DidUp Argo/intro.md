@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Hi!'
-sidebar_position: 3
+sidebar_label: 'Installazione app DidUp su cellulari'
+sidebar_position: 2
 ---
 
 # Hello
