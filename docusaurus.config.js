@@ -110,22 +110,7 @@ const config = {
           {
             title: 'Guide e Tutorial',
             items: [
-              {
-                label: 'Alunne e Alunni',
-                to: '/docs/Alunne e alunni/intro.md',
-              },
-              {
-                label: 'Genitori e famiglie',
-                to: '/docs/Famiglie e genitori',
-              },
-              {
-                label: 'Docenti e personale scolastico',
-                to: '/docs/Docenti e personale scolastico',
-              },
-              {
-                label: 'Team Digitale',
-                to: '/docs/Team Digitale',
-              },
+              
             ],
           },
           {
@@ -154,7 +139,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/magiaslab/docsarurus-scuola',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
