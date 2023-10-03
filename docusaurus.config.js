@@ -116,15 +116,15 @@ const config = {
               },
               {
                 label: 'Genitori e famiglie',
-                to: '/docs/Famiglie e genitori/',
+                to: '/docs/Famiglie e genitori',
               },
               {
                 label: 'Docenti e personale scolastico',
-                to: '/docs/Docenti e personale scolastico/',
+                to: '/docs/Docenti e personale scolastico',
               },
               {
                 label: 'Team Digitale',
-                to: '/docs/Team Digitale/',
+                to: '/docs/Team Digitale',
               },
             ],
           },
