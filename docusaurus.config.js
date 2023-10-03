@@ -108,11 +108,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Guide',
+            title: 'Guide e Tutorial',
             items: [
               {
-                label: 'Guide per tutti',
-                to: '/docs/intro',
+                label: 'Alunne e Alunni',
+                to: '/docs/Alunne e alunni/intro.md',
+              },
+              {
+                label: 'Genitori e famiglie',
+                to: '/docs/Famiglie e genitori/',
+              },
+              {
+                label: 'Docenti e personale scolastico',
+                to: '/docs/Docenti e personale scolastico/',
+              },
+              {
+                label: 'Team Digitale',
+                to: '/docs/Team Digitale/',
               },
             ],
           },
@@ -120,16 +132,16 @@ const config = {
             title: 'Link Utili',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Sito Istituto Marconi',
+                href: 'https://istituto-marconi.edu.it',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Registro Elettronico',
+                href: 'https://www.portaleargo.it/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Classroom',
+                href: 'https://google.com/classroom',
               },
             ],
           },
@@ -142,7 +154,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/magiaslab/docsarurus-scuola',
               },
             ],
           },
