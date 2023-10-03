@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Alunne e Alunni',
-                to: '/docs/category/alunne-e-alunni',
+                to: '/docs/Alunne e alunni/intro.md',
               },
               {
                 label: 'Genitori e famiglie',
@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: 'Team Digitale',
-                to: '/docs/category/team-digitale',
+                to: '/docs/Team Digitale',
               },
             ],
           },
