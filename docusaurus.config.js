@@ -71,7 +71,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Nuove guide disponibili <a target="_blank" rel="noopener noreferrer" href="#">Clicca qui</a>',
+          'Nuove guide disponibili per Alunni e Alunne <a target="_blank" rel="noopener noreferrer" href="#">Clicca qui</a>',
         backgroundColor: '#3456',
         textColor: '#fafafa',
         isCloseable: false,
