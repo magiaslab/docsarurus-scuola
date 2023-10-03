@@ -1,6 +1,6 @@
 ﻿---
 sidebar_label: 'Requisiti inziali'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 ![Logo Argo](<./argologo.png>)

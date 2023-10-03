@@ -3,6 +3,8 @@ sidebar_label: 'Installazione app DidUp su cellulari'
 sidebar_position: 2
 ---
 
-# Hello
+# Come installare l'app su cellulari o tablet
 
-This is my **first Docusaurus document**!
+L'app DidUp Famiglia è disponibile negli store sia per Android che per Iphone, è possibile installarla da questi link:
+
+
