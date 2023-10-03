@@ -98,6 +98,10 @@ const config = {
             label: 'Sito Scolastico',
             position: 'right',
           },
+          {
+            type: 'search',
+            position: 'right',
+          },
         ],
       },
       footer: {
