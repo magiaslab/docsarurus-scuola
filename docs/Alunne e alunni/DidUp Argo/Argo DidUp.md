@@ -2,7 +2,11 @@
 sidebar_label: 'Argo didup'
 sidebar_position: 2
 ---
+
 # Come effettuo il primo accesso?
+
+![Logo Argo](<../static/img/argologo.png>)
+
 
 Per effettuare il primo accesso all’applicazione, si dovranno utilizzare le **credenziali temporanee** fornite dalla segreteria scolastica via e-mail o su supporto cartaceo.
 
