@@ -85,8 +85,8 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/teamDigitale', label: 'Team Digitale', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://istituto-marconi.edu.it',
+            label: 'Sito Scolastico',
             position: 'right',
           },
         ],
