@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Guide per tutti',
-    Svg: require('@site/static/img/undraw_completed_m9ci.svg').default,
+    title: 'Guide per alunni',
+    Svg: require('@site/static/img/alunni.svg').default,
     description: (
       <>
         Un luogo dove trovare le guide per le componenti digitali della scuola
@@ -14,21 +14,19 @@ const FeatureList = [
   },
   {
     title: 'Docenti e personale scolastico',
-    Svg: require('@site/static/img/undraw_search_app_oso2.svg').default,
+    Svg: require('@site/static/img/docenti.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Le guide per una didattica digitale migliore e per aiutare alunni e famiglie nella transizione digitale
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Famiglie e genitori',
+    Svg: require('@site/static/img/famiglie.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Le guide ai servizi digitali della scuola
       </>
     ),
   },
