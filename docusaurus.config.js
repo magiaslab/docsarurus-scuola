@@ -71,9 +71,9 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
+          'Nuove guide disponibili <a target="_blank" rel="noopener noreferrer" href="#">Clicca qui</a>',
+        backgroundColor: '#3456',
+        textColor: '#fafafa',
         isCloseable: false,
       },
       // Replace with your project's social card
