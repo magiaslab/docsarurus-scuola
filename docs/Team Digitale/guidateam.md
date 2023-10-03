@@ -19,7 +19,11 @@ Per scrivere in markdown esistono diversi strumenti anche online tra cui:
 
 Da tutti gli editor si può ovviamente esportare il file elaborato nel formato MD o anche in altri formati.
 
+## Pubblicazione sul sito
+
 I file delle guide o di tutorial scritti dai componenti del Team Digitale dell'Istituto devono essere caricati nel drive condiviso del Team nella cartella **"Guide e Tutorial"** e saranno di volta in volta pubblicati sul sito dal responsabile.
+
+## Requisiti dei contenuti
 
 Indicare all'interno del file se la guida e il tutorial da pubblicare è destinato a:
 
