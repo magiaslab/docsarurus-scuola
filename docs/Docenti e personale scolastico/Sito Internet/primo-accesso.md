@@ -3,10 +3,13 @@ sidebar_label: 'Primo accesso Google WorkSpace'
 sidebar_position: 2
 ---
 
-<div class="note">
-  <strong>Nota:</strong> Il primo accesso è un operazione che va eseguita solo per la prima attivazione, contiene anche indicazioni utili su come utilizzare un doppio account nei browser.
-  Il browser consigliato per un utilizzo ottimale della piattaforma Gsuite è Google Chrome.
-</div>
+
+# Primo accesso Google WorkSpace
+ 
+ Il primo accesso è un operazione che va eseguita solo per la prima attivazione, contiene anche indicazioni utili su come utilizzare un doppio account nei browser.
+
+Il browser consigliato per un utilizzo ottimale della piattaforma Gsuite è Google Chrome.
+
 
 ## 1 Dove fare il primo accesso
 
