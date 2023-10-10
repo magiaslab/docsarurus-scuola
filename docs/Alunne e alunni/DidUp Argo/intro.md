@@ -1,9 +1,11 @@
 ---
-sidebar_label: 'Installazione app DidUp su cellulari'
+sidebar_label: 'Installazione app DidUp su smartphone'
 sidebar_position: 2
 ---
 
-# Come installare l'app su cellulari o tablet
+# Come installare l'app DidUp su smartphone o tablet
+
+## Operazioni passo passo
 
 L'app DidUp Famiglia è disponibile negli store sia per Android che per Iphone, è possibile installarla da questi link:
 
@@ -27,3 +29,7 @@ Si ricorda che le credenziali per gli account **"genitori"** sono rilasciate dal
 ## Guide sintetiche
 
 ![pulsante+](<../DidUp Argo/img88.jpg>)
+![pulsante+](<../DidUp Argo/img94.jpg>)
+![pulsante+](<../DidUp Argo/img99.jpg>)
+![pulsante+](<../DidUp Argo/img105.jpg>)
+![pulsante+](<../DidUp Argo/img111.jpg>)
