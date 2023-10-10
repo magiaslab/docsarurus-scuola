@@ -21,4 +21,9 @@ Si ricorda che le credenziali per gli account **"genitori"** sono rilasciate dal
     - **alunno**: viene generato solo il profilo specifico dell’alunno, e in basso viene specificato che si tratta di un account “alunno”. 
 4. Cliccare su Entra nel Profilo (se ci sono più profili, ripetere le operazioni, appresso indicate, su ogni profilo)
 5. Cliccate su cambio dati primo accesso; pulsante ![pulsantemodifiche](<../DidUp Argo/img57.jpg>)
-6. Immettere le credenziali personali di primo accesso, quindi cliccare su SALVA. == NOTA BENE ==: si può immettere un nome utente a piacimento, senza spazi e senza il codice scuola. Ad es: michele.verdi (OK); michele verdi (NO); michele.verdi.sg12345 (NO).
+6. Immettere le credenziali personali di primo accesso, quindi cliccare su SALVA. ==NOTA BENE==: si può immettere un nome utente a piacimento, senza spazi e senza il codice scuola. Ad es: michele.verdi (OK); michele verdi (NO); michele.verdi.sg12345 (NO).
+7. A questo punto il profilo è stato creato correttamente e si potrà accedere a tutte le funzionalità dell’APP; riceverete una e-mail di conferma (6).
+
+## Guide sintetiche
+
+![pulsante+](<../DidUp Argo/img88.jpg>)
