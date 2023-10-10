@@ -14,5 +14,5 @@ Per effettuare il primo accesso all’applicazione, si dovranno utilizzare le cr
 
 Si ricorda che le credenziali per gli account **"genitori"** sono rilasciate dalla segreteria mentre quelle **"alunni"** sono rilasciate dal coordinatore di classe solo per gli alunni della secondaria di primo grado.
 
-1) Aprite l’app e cliccate sul pulsante +
-2) Immettete il codice scuola (sc12072) e sotto le credenziali temporanee (numeri e lettere) come da istruzioni ricevute dalla scuola; cliccate su **ENTRA**.
+1. Aprite l’app e cliccate sul pulsante +
+2. Immettete il codice scuola (sc12072) e sotto le credenziali temporanee (numeri e lettere) come da istruzioni ricevute dalla scuola; cliccate su **ENTRA**.
