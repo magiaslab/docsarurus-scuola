@@ -17,12 +17,12 @@ Prova form
 
 <form action="https://api.web3forms.com/submit" method="POST">
 
-    <input type="hidden" name="access_key" value="0d61967e-b8f6-4f93-9d4e-15b7d7c5ec11">
+    <input type="hidden" name="access_key" value="0d61967e-b8f6-4f93-9d4e-15b7d7c5ec11" />
 
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
+    <input type="text" name="name" required />
+    <input type="email" name="email" required />
     <textarea name="message" required></textarea>
-    <div class="h-captcha" data-captcha="true"></div>
+    <div className="h-captcha" data-captcha="true"></div>
     <button type="submit">Submit Form</button>
 
 </form>
