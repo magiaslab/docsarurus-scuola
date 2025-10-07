@@ -92,6 +92,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            to: '/docs/category/docenti-e-personale-scolastico',
+            label: 'Docenti e personale scolastico',
+            position: 'left',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/teamDigitale', label: 'Team Digitale', position: 'left'},
           {
