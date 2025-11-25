@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Guides de l'Institut \"G Marconi\"",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo de mon site",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutoriels",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Docenti e personale scolastico": {
+    "message": "Enseignants et personnel scolaire",
+    "description": "Navbar item with label Docenti e personale scolastico"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Team Digitale": {
+    "message": "Équipe Numérique",
+    "description": "Navbar item with label Team Digitale"
+  },
+  "item.label.Sito Scolastico": {
+    "message": "Site de l'école",
+    "description": "Navbar item with label Sito Scolastico"
+  }
+}

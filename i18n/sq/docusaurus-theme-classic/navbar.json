@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Udhëzuesit e Institutit \"G Marconi\"",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logoja e faqes sime",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutoriale",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Docenti e personale scolastico": {
+    "message": "Mësuesit dhe personeli i shkollës",
+    "description": "Navbar item with label Docenti e personale scolastico"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Team Digitale": {
+    "message": "Ekipi Dixhital",
+    "description": "Navbar item with label Team Digitale"
+  },
+  "item.label.Sito Scolastico": {
+    "message": "Faqja e Shkollës",
+    "description": "Navbar item with label Sito Scolastico"
+  }
+}

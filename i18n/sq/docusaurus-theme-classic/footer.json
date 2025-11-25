@@ -1,0 +1,38 @@
+{
+  "link.title.Guide e Tutorial": {
+    "message": "Udhëzues dhe Tutoriale",
+    "description": "The title of the footer links column with title=Guide e Tutorial in the footer"
+  },
+  "link.title.Link Utili": {
+    "message": "Linqe të Dobishme",
+    "description": "The title of the footer links column with title=Link Utili in the footer"
+  },
+  "link.title.Altri link": {
+    "message": "Linqe të tjera",
+    "description": "The title of the footer links column with title=Altri link in the footer"
+  },
+  "link.item.label.Sito Istituto Marconi": {
+    "message": "Faqja e Institutit Marconi",
+    "description": "The label of footer link with label=Sito Istituto Marconi linking to https://istituto-marconi.edu.it"
+  },
+  "link.item.label.Registro Elettronico": {
+    "message": "Regjistri Elektronik",
+    "description": "The label of footer link with label=Registro Elettronico linking to https://www.portaleargo.it/"
+  },
+  "link.item.label.Classroom": {
+    "message": "Classroom",
+    "description": "The label of footer link with label=Classroom linking to https://google.com/classroom"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/facebook/docusaurus"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Ekipi Dixhital Instituti \"G. Marconi\" Campiglia Marittima (Li)",
+    "description": "The footer copyright"
+  }
+}

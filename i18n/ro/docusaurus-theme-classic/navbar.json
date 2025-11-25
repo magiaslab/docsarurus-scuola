@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Ghidurile Institutului \"G Marconi\"",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo-ul site-ului meu",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutoriale",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Docenti e personale scolastico": {
+    "message": "Profesori și personal școlar",
+    "description": "Navbar item with label Docenti e personale scolastico"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Team Digitale": {
+    "message": "Echipa Digitală",
+    "description": "Navbar item with label Team Digitale"
+  },
+  "item.label.Sito Scolastico": {
+    "message": "Site-ul Școlii",
+    "description": "Navbar item with label Sito Scolastico"
+  }
+}

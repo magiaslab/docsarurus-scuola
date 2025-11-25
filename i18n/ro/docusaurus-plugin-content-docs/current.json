@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Alunne e alunni": {
+    "message": "Alunne e alunni",
+    "description": "The label for category Alunne e alunni in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Alunne e alunni.link.generated-index.description": {
+    "message": "Le guide per alunne e alunni",
+    "description": "The generated-index page description for category Alunne e alunni in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account e attivazione": {
+    "message": "Account e attivazione",
+    "description": "The label for category Account e attivazione in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account e attivazione.link.generated-index.description": {
+    "message": "Guide per la gestione e attivazione degli account scolastici per alunne e alunni.",
+    "description": "The generated-index page description for category Account e attivazione in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Didup Argo": {
+    "message": "Didup Argo",
+    "description": "The label for category Didup Argo in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Didup Argo.link.generated-index.description": {
+    "message": "Tutte le guide della App DidUp",
+    "description": "The generated-index page description for category Didup Argo in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Classroom": {
+    "message": "Classroom",
+    "description": "The label for category Classroom in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Classroom.link.generated-index.description": {
+    "message": "Tutte le guide della App Classroom",
+    "description": "The generated-index page description for category Classroom in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Google Drive": {
+    "message": "Google Drive",
+    "description": "The label for category Google Drive in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Google Drive.link.generated-index.description": {
+    "message": "Tutte le guide della App Drive",
+    "description": "The generated-index page description for category Google Drive in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Famiglie e Genitori": {
+    "message": "Famiglie e Genitori",
+    "description": "The label for category Famiglie e Genitori in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Famiglie e Genitori.link.generated-index.description": {
+    "message": "Guide e tutorial per le famiglie, Genitori e tutori",
+    "description": "The generated-index page description for category Famiglie e Genitori in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Docenti e personale scolastico": {
+    "message": "Docenti e personale scolastico",
+    "description": "The label for category Docenti e personale scolastico in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Docenti e personale scolastico.link.generated-index.description": {
+    "message": "Guide e tutorial per i docenti ed il personale scolastico",
+    "description": "The generated-index page description for category Docenti e personale scolastico in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sito Internet": {
+    "message": "Sito Internet",
+    "description": "The label for category Sito Internet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sito Internet.link.generated-index.description": {
+    "message": "Guide per il sito dell'istituto (WordPress / Italia Design)",
+    "description": "The generated-index page description for category Sito Internet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Argo Unica": {
+    "message": "Argo Unica",
+    "description": "The label for category Argo Unica in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Argo Unica.link.generated-index.description": {
+    "message": "Guide per Argo Unica dedicate a docenti e personale ATA",
+    "description": "The generated-index page description for category Argo Unica in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Team Digitale": {
+    "message": "Team Digitale",
+    "description": "The label for category Team Digitale in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Team Digitale.link.generated-index.description": {
+    "message": "Guide e tutorial per il team digitale",
+    "description": "The generated-index page description for category Team Digitale in sidebar tutorialSidebar"
+  }
+}
