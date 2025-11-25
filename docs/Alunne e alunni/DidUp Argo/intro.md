@@ -16,20 +16,20 @@ Per effettuare il primo accesso all’applicazione, si dovranno utilizzare le cr
 
 Si ricorda che le credenziali per gli account **"genitori"** sono rilasciate dalla segreteria mentre quelle **"alunni"** sono rilasciate dal coordinatore di classe solo per gli alunni delle scuole secondarie di primo grado.
 
-1. Aprite l’app e cliccate sul pulsante ![pulsante+](<../DidUp Argo/img38.jpg>)
+1. Aprite l’app e cliccate sul pulsante ![pulsante+](</img/DidUpArgo/img38.jpg>)
 2. Immettete il codice scuola (sc12072) e sotto le credenziali temporanee (numeri e lettere) come da istruzioni ricevute dalla scuola; cliccate su **ENTRA**.
 3. Vengono generati automaticamente uno o più profili in base al tipo di accesso:
     - **genitore**: viene generato un profilo per ogni figlio frequentante la scuola indicata nella login, in questo caso in alto compare il nome del figlio e in basso viene indicato il nome genitore intestatario.
     - **alunno**: viene generato solo il profilo specifico dell’alunno, e in basso viene specificato che si tratta di un account “alunno”. 
 4. Cliccare su Entra nel Profilo (se ci sono più profili, ripetere le operazioni, appresso indicate, su ogni profilo)
-5. Cliccate su cambio dati primo accesso; pulsante ![pulsantemodifiche](<../DidUp Argo/img57.jpg>)
+5. Cliccate su cambio dati primo accesso; pulsante ![pulsantemodifiche](</img/DidUpArgo/img57.jpg>)
 6. Immettere le credenziali personali di primo accesso, quindi cliccare su SALVA. ==NOTA BENE==: si può immettere un nome utente a piacimento, senza spazi e senza il codice scuola. Ad es: michele.verdi (OK); michele verdi (NO); michele.verdi.sg12345 (NO).
 7. A questo punto il profilo è stato creato correttamente e si potrà accedere a tutte le funzionalità dell’APP; riceverete una e-mail di conferma (6).
 
 ## Guide sintetiche
 
-![pulsante+](<../DidUp Argo/img88.jpg>)
-![pulsante+](<../DidUp Argo/img94.jpg>)
-![pulsante+](<../DidUp Argo/img99.jpg>)
-![pulsante+](<../DidUp Argo/img105.jpg>)
-![pulsante+](<../DidUp Argo/img111.jpg>)
+![pulsante+](</img/DidUpArgo/img88.jpg>)
+![pulsante+](</img/DidUpArgo/img94.jpg>)
+![pulsante+](</img/DidUpArgo/img99.jpg>)
+![pulsante+](</img/DidUpArgo/img105.jpg>)
+![pulsante+](</img/DidUpArgo/img111.jpg>)

@@ -16,20 +16,20 @@ Për të kryer hyrjen e parë në aplikacion, do të duhet të përdorni kredenc
 
 Ju kujtojmë se kredencialet për llogaritë **"prindër"** lëshohen nga sekretaria ndërsa ato **"nxënës"** lëshohen nga koordinatori i klasës vetëm për nxënësit e shkollave të mesme të ulëta.
 
-1. Hapni aplikacionin dhe klikoni në butonin ![butoni+](<../DidUp Argo/img38.jpg>)
+1. Hapni aplikacionin dhe klikoni në butonin ![butoni+](</img/DidUpArgo/img38.jpg>)
 2. Vendosni kodin e shkollës (sc12072) dhe poshtë kredencialet e përkohshme (numra dhe shkronja) sipas udhëzimeve të marra nga shkolla; klikoni në **HYR**.
 3. Gjenerohen automatikisht një ose më shumë profile bazuar në llojin e aksesit:
     - **prind**: gjenerohet një profil për çdo fëmijë që ndjek shkollën e treguar në hyrje, në këtë rast në krye shfaqet emri i fëmijës dhe në fund tregohet emri i prindit mbajtës.
     - **nxënës**: gjenerohet vetëm profili specifik i nxënësit, dhe në fund specifikohet se bëhet fjalë për një llogari "nxënës".
 4. Klikoni në Hyr në Profil (nëse ka më shumë profile, përsëritni veprimet, të treguara më poshtë, në çdo profil)
-5. Klikoni në ndrysho të dhënat e hyrjes së parë; butoni ![butonindrysho](<../DidUp Argo/img57.jpg>)
+5. Klikoni në ndrysho të dhënat e hyrjes së parë; butoni ![butonindrysho](</img/DidUpArgo/img57.jpg>)
 6. Vendosni kredencialet personale të hyrjes së parë, pastaj klikoni në RUAJ. ==SHËNIM==: mund të vendosni një emër përdoruesi sipas dëshirës, pa hapësira dhe pa kodin e shkollës. P.sh.: michele.verdi (OK); michele verdi (JO); michele.verdi.sg12345 (JO).
 7. Në këtë pikë profili është krijuar saktë dhe do të mund të përdorni të gjitha funksionalitetet e APP-së; do të merrni një email konfirmimi (6).
 
 ## Udhëzues të shpejtë
 
-![butoni+](<../DidUp Argo/img88.jpg>)
-![butoni+](<../DidUp Argo/img94.jpg>)
-![butoni+](<../DidUp Argo/img99.jpg>)
-![butoni+](<../DidUp Argo/img105.jpg>)
-![butoni+](<../DidUp Argo/img111.jpg>)
+![butoni+](</img/DidUpArgo/img88.jpg>)
+![butoni+](</img/DidUpArgo/img94.jpg>)
+![butoni+](</img/DidUpArgo/img99.jpg>)
+![butoni+](</img/DidUpArgo/img105.jpg>)
+![butoni+](</img/DidUpArgo/img111.jpg>)

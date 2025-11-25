@@ -21,7 +21,7 @@ Site-ul este organizat în secțiuni dedicate diferiților utilizatori ai școli
 
 ## Contextul: AGID și designul serviciilor
 
-![Logo Agid](<../static/img/logo agid.jpg>)
+![Logo Agid](/img/logo%20agid.jpg)
 
 Parcursul nostru de digitalizare urmează liniile directoare ale **AGID** (Agenția pentru Italia Digitală), punând accent pe experiența utilizatorului și simplificarea proceselor.
 Pentru mai multe informații, vizitați [site-ul web AGID](https://www.agid.gov.it/).

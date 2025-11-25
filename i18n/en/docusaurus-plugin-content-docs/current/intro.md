@@ -21,7 +21,7 @@ The site is organized into sections dedicated to different school users:
 
 ## The Context: AGID and Service Design
 
-![Logo Agid](<../static/img/logo agid.jpg>)
+![Logo Agid](/img/logo%20agid.jpg)
 
 Our digitization path follows the guidelines of **AGID** (Agency for Digital Italy), focusing on user experience and process simplification.
 For more information, visit the [AGID website](https://www.agid.gov.it/).

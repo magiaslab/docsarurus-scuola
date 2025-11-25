@@ -21,7 +21,7 @@ Il sito è organizzato in sezioni dedicate ai diversi utenti della scuola:
 
 ## Il contesto: AGID e il design dei servizi
 
-![Logo Agid](<../static/img/logo agid.jpg>)
+![Logo Agid](/img/logo%20agid.jpg)
 
 Il nostro percorso di digitalizzazione segue le linee guida di **AGID** (Agenzia per l'Italia Digitale), ponendo al centro l'esperienza dell'utente e la semplificazione dei processi.
 Per maggiori informazioni, visita il [sito web AGID](https://www.agid.gov.it/).

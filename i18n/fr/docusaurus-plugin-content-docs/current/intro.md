@@ -21,7 +21,7 @@ Le site est organisé en sections dédiées aux différents utilisateurs de l'é
 
 ## Le contexte : AGID et la conception des services
 
-![Logo Agid](<../static/img/logo agid.jpg>)
+![Logo Agid](/img/logo%20agid.jpg)
 
 Notre parcours de numérisation suit les directives de l'**AGID** (Agence pour l'Italie Numérique), en mettant l'accent sur l'expérience utilisateur et la simplification des processus.
 Pour plus d'informations, visitez le [site web de l'AGID](https://www.agid.gov.it/).

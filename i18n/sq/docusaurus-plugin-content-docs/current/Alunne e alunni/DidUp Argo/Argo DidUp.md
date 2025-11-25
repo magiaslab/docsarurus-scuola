@@ -3,7 +3,7 @@ sidebar_label: 'Kërkesat fillestare'
 sidebar_position: 1
 ---
 
-![Logo Argo](<./argologo.png>)
+![Logo Argo](/img/DidUpArgo/argologo.png)
 
 # Çfarë më duhet për hyrjen e parë?
 

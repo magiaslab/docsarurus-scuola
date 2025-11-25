@@ -3,7 +3,7 @@ sidebar_label: 'Exigences initiales'
 sidebar_position: 1
 ---
 
-![Logo Argo](<./argologo.png>)
+![Logo Argo](/img/DidUpArgo/argologo.png)
 
 # De quoi ai-je besoin pour le premier accès ?
 

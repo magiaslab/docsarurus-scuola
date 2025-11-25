@@ -21,7 +21,7 @@ Faqja është e organizuar në seksione të dedikuara për përdorues të ndrysh
 
 ## Konteksti: AGID dhe dizajni i shërbimeve
 
-![Logo Agid](<../static/img/logo agid.jpg>)
+![Logo Agid](/img/logo%20agid.jpg)
 
 Rrugëtimi ynë i dixhitalizimit ndjek udhëzimet e **AGID** (Agjencia për Italinë Dixhitale), duke vënë në qendër përvojën e përdoruesit dhe thjeshtimin e proceseve.
 Për më shumë informacion, vizitoni [faqen e internetit të AGID](https://www.agid.gov.it/).
