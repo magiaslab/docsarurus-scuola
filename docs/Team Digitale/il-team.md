@@ -37,7 +37,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
         <div class="card__header">
           <div class="avatar">
             <div class="avatar__intro">
-              <div class="avatar__name">Nome Cognome</div>
+              <div class="avatar__name">Alessandro Cipriani</div>
               <small class="avatar__subtitle">Animatore Digitale</small>
             </div>
           </div>
@@ -46,7 +46,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
           <p>Coordinamento generale, gestione progetti PNSD e formazione.</p>
         </div>
         <div class="card__footer">
-          <a href="mailto:email@scuola.edu.it" class="button button--secondary button--block">Contatta</a>
+          <a href="mailto:admin@istituto-marconi.edu.it" class="button button--secondary button--block">Contatta</a>
         </div>
       </div>
     </div>
@@ -57,7 +57,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
         <div class="card__header">
           <div class="avatar">
             <div class="avatar__intro">
-              <div class="avatar__name">Nome Cognome</div>
+              <div class="avatar__name">Elisa Caciagli</div>
               <small class="avatar__subtitle">Team Digitale</small>
             </div>
           </div>
@@ -66,7 +66,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
           <p>Supporto alla didattica digitale e gestione piattaforme.</p>
         </div>
         <div class="card__footer">
-          <a href="mailto:email@scuola.edu.it" class="button button--secondary button--block">Contatta</a>
+          <a href="mailto:caciagli.elisa@istituto-marconi.edu.it" class="button button--secondary button--block">Contatta</a>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
         <div class="card__header">
           <div class="avatar">
             <div class="avatar__intro">
-              <div class="avatar__name">Nome Cognome</div>
+              <div class="avatar__name">Agnese Fossi</div>
               <small class="avatar__subtitle">Team Digitale</small>
             </div>
           </div>
@@ -86,7 +86,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
           <p>Supporto tecnico e gestione sito web.</p>
         </div>
         <div class="card__footer">
-          <a href="mailto:email@scuola.edu.it" class="button button--secondary button--block">Contatta</a>
+          <a href="mailto:fossi.agnese@istituto-marconi.edu.it" class="button button--secondary button--block">Contatta</a>
         </div>
       </div>
     </div>
@@ -97,7 +97,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
         <div class="card__header">
           <div class="avatar">
             <div class="avatar__intro">
-              <div class="avatar__name">Nome Cognome</div>
+              <div class="avatar__name">Romina Pecchia</div>
               <small class="avatar__subtitle">Team Digitale</small>
             </div>
           </div>
@@ -106,7 +106,7 @@ Ecco i membri del nostro Team Digitale. Per qualsiasi necessità o supporto, pot
           <p>Supporto amministrativo e registro elettronico.</p>
         </div>
         <div class="card__footer">
-          <a href="mailto:email@scuola.edu.it" class="button button--secondary button--block">Contatta</a>
+          <a href="mailto:pecchia.romina@istituto-marconi.edu.it" class="button button--secondary button--block">Contatta</a>
         </div>
       </div>
     </div>
