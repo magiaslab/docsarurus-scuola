@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const {themes} = require('prism-react-renderer');
+const { themes } = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
@@ -30,9 +30,16 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'it',
-    locales: ['it'],
+    locales: ['it', 'en', 'fr', 'sq', 'ro'],
+    localeConfigs: {
+      it: { label: '🇮🇹 Italiano' },
+      en: { label: '🇬🇧 English' },
+      fr: { label: '🇫🇷 Français' },
+      sq: { label: '🇦🇱 Shqip' },
+      ro: { label: '🇷🇴 Română' },
+    },
   },
-  
+
 
   presets: [
     [
@@ -43,7 +50,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          
+
         },
         blog: {
           showReadingTime: true,
@@ -53,21 +60,21 @@ const config = {
           blogDescription: 'Blog',
           blogSidebarCount: 5,
           blogSidebarTitle: 'Tutti i posts',
-          
+
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
-      
+
     ],
   ],
 
-  
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    
+
     ({
       announcementBar: {
         id: 'support_us',
@@ -97,8 +104,12 @@ const config = {
             label: 'Docenti e personale scolastico',
             position: 'left',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/teamDigitale', label: 'Team Digitale', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/teamDigitale', label: 'Team Digitale', position: 'left' },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://istituto-marconi.edu.it',
             label: 'Sito Scolastico',
@@ -116,7 +127,7 @@ const config = {
           {
             title: 'Guide e Tutorial',
             items: [
-              
+
             ],
           },
           {
@@ -159,30 +170,30 @@ const config = {
       algolia: {
         // The application ID provided by Algolia
         appId: 'YOUR_APP_ID',
-  
+
         // Public API key: it is safe to commit it
         apiKey: 'YOUR_SEARCH_API_KEY',
-  
+
         indexName: 'YOUR_INDEX_NAME',
-  
+
         // Optional: see doc section below
         contextualSearch: true,
-  
+
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
         externalUrlRegex: 'external\\.com|domain\\.com',
-  
+
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         replaceSearchResultPathname: {
           from: '/docs/', // or as RegExp: /\/docs\//
           to: '/',
         },
-  
+
         // Optional: Algolia search parameters
         searchParameters: {},
-  
+
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
-  
+
         //... other Algolia params
       },
     }),
