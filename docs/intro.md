@@ -2,29 +2,26 @@
 sidebar_position: 1
 ---
 
-# Perchè un sito dedicato alle guide
+# Benvenuti nelle Guide dell'Istituto Marconi
 
-Per racchiudere in un solo luogo ed aiutare le persone a sfruttare al meglio gli strumenti ed i servizi che la scuola sta ammodernando nel processo di digitalizzazione.
+Questo portale nasce con l'obiettivo di racchiudere in un unico punto di accesso tutte le informazioni, i manuali e le procedure necessarie per sfruttare al meglio gli strumenti digitali della nostra scuola.
 
-## AGID e il design dei servizi
+## Perchè questo sito?
+
+La scuola sta affrontando un importante processo di ammodernamento e digitalizzazione. Per supportare alunni, docenti, personale e famiglie in questo cambiamento, abbiamo creato questa raccolta di guide che vi accompagnerà passo dopo passo nell'utilizzo dei nuovi servizi.
+
+## Cosa troverai qui
+
+Il sito è organizzato in sezioni dedicate ai diversi utenti della scuola:
+
+*   **Alunne e alunni**: Guide sull'attivazione degli account, utilizzo delle piattaforme didattiche e risorse per lo studio.
+*   **Docenti e personale scolastico**: Procedure per il registro elettronico, gestione della didattica digitale e strumenti amministrativi.
+*   **Famiglie e genitori**: Istruzioni per l'accesso ai servizi online, pagamenti e comunicazioni scuola-famiglia.
+*   **Team Digitale**: Documentazione tecnica e progetti del team per l'innovazione scolastica.
+
+## Il contesto: AGID e il design dei servizi
 
 ![Logo Agid](<../static/img/logo agid.jpg>)
 
-Il processo di digitalizzazione e design dei servizi digitali della PA è nato attraverso un processo creato e seguito da AGID, Agenzia per l'italia Digitale [sito web AGID](https://www.agid.gov.it/)
-
-
-Prova form
-
-<form action="https://api.web3forms.com/submit" method="POST">
-
-    <input type="hidden" name="access_key" value="0d61967e-b8f6-4f93-9d4e-15b7d7c5ec11" />
-
-    <input type="text" name="name" required />
-    <input type="email" name="email" required />
-    <textarea name="message" required></textarea>
-    <div className="h-captcha" data-captcha="true"></div>
-    <button type="submit">Submit Form</button>
-
-</form>
-
-<script src="https://web3forms.com/client/script.js" async defer></script>
+Il nostro percorso di digitalizzazione segue le linee guida di **AGID** (Agenzia per l'Italia Digitale), ponendo al centro l'esperienza dell'utente e la semplificazione dei processi.
+Per maggiori informazioni, visita il [sito web AGID](https://www.agid.gov.it/).
